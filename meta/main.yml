@@ -31,9 +31,9 @@ galaxy_info:
   # platform on this list, let us know and we'll get it added!
   #
   #platforms:
-  #- name: EL
-  #  versions:
-  #  - all
+  - name: EL
+    versions:
+    - all
   #  - 5
   #  - 6
   #  - 7
@@ -49,9 +49,9 @@ galaxy_info:
   #  - 5.8
   #  - 5.9
   #  - 6.0
-  #- name: Fedora
-  #  versions:
-  #  - all
+  - name: Fedora
+    versions:
+    - all
   #  - 16
   #  - 17
   #  - 18
@@ -60,9 +60,9 @@ galaxy_info:
   #  - 21
   #  - 22
   #  - 23
-  #- name: opensuse
-  #  versions:
-  #  - all
+  - name: opensuse
+    versions:
+    - all
   #  - 12.1
   #  - 12.2
   #  - 12.3
@@ -131,9 +131,9 @@ galaxy_info:
   #  - 9.1
   #  - 9.2
   #  - 9.3
-  #- name: Ubuntu
-  #  versions:
-  #  - all
+  - name: Ubuntu
+    versions:
+    - all
   #  - lucid
   #  - maverick
   #  - natty
@@ -167,9 +167,9 @@ galaxy_info:
   #  versions:
   #  - all
   #  - any
-  #- name: Debian
-  #  versions:
-  #  - all
+  - name: Debian
+    versions:
+    - all
   #  - etch
   #  - jessie
   #  - lenny
